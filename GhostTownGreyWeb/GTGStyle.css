@@ -1,0 +1,86 @@
+﻿body {
+    background-image: url('GhostTownGreyHeader.jpg');
+    background-size: 100%;
+}
+
+.ui-tabs .ui-tabs-nav { 
+    padding: 5px;
+    text-align: right;
+}
+
+.ui-tabs .ui-tabs-nav li {
+    display: inline-block;
+    float: none;
+}
+
+.ui-tab-title {
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    padding: 5px;
+}
+
+.ui-widget-header {
+    height:50px;
+    background: none !important;
+    background-color: white !important;
+}
+.ui-widget-content {
+    border: none !important;
+}
+
+.ui-state-default {
+
+    border: none;
+    background: none !important;
+}
+
+#tabs {
+    
+    background: none;
+}
+
+div {
+    color:white !important;
+    text-align: center;
+}
+.ui-widget-content a {
+    padding: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.AboutUs {
+    border: 0px;
+    border-radius: 5px;
+    color: black !important;
+    padding: 20px;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 90%;
+    background-color:rgba(255, 255, 255, 0.65);
+}
+
+#Contact {
+    border: 0px;
+    border-radius: 5px;
+    color: black !important;
+    padding: 20px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 90%;
+    background-color:rgba(255, 255, 255, 0.65);
+}
+
+
+.twitter-timeline {
+    padding-top: 20px;
+}
+
+.links {
+    color: black !important;
+}
